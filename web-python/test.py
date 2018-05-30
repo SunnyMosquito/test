@@ -1,0 +1,2 @@
+import xixi
+print("hello")
